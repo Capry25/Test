@@ -10,6 +10,11 @@ Essai de nouvele branche
 
 <<<<<<< HEAD
 GOT YA
+<<<<<<< HEAD
 =======
 Je créé un conflit pour foutre la merde
 >>>>>>> dd9dec7637d13929390757d8ca9ed478f057e933
+=======
+
+Okay
+>>>>>>> refs/remotes/origin/master
